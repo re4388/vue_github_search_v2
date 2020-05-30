@@ -3,10 +3,10 @@
 ## 主要是加上Vuex和pug
 
 ## Live Demo
-[] TODO
+To add
 
 ## Todo
-1. use access toeknt to send req to Github API, o.w. only have 60 per hr now, up to 5000 per hr with token
+[] live demo
 
 
 ## 學習筆記
